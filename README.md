@@ -1,1 +1,2 @@
 # jQuery-Project
+Practicing jQuery
