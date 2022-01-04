@@ -18,14 +18,21 @@ body {
 
 #image1 {
     border-radius: 100px;
+    object-fit: cover;
+    height: 400px;
+    
 }
 
 #image2 {
     border-radius: 100px;
+    object-fit: cover;
+    height: 400px;
 }
 
 #image3 {
     border-radius: 100px;
+    object-fit: cover;
+    height: 400px;
 }
 
 #image1-thumbnail {
